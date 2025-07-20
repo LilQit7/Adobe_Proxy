@@ -1,5 +1,7 @@
 # Adobe_Proxy
 
+**Languages / 语言选择：** [🇺🇸 English](README_EN.md) | [🇨🇳 中文](README.md)
+
 ## 📋 项目简介
 
 本项目旨在收集和整合所有Adobe相关的域名规则，为代理工具（如Clash、Surge等）提供完整的Adobe服务域名列表。通过使用本规则集，可以有效管理Adobe软件的网络访问行为。
