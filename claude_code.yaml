@@ -1,0 +1,7 @@
+# —— 放在 AI Suite 等大类之前 ——
+- "DOMAIN,api.anthropic.com,Claude"
+- "DOMAIN-SUFFIX,anthropic.com,Claude"
+- "DOMAIN-SUFFIX,claude.ai,Claude"
+- "DOMAIN-SUFFIX,claudeusercontent.com,Claude"
+# 可选更宽：
+- "DOMAIN-KEYWORD,anthropic,Claude"
